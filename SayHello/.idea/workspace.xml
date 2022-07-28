@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="829f5179-6e5e-4d3a-ac66-78b4f3ffaa7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/Bulgarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/Chinese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/European.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/BasePerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello/Bulgarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello/Bulgarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello/Chinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello/Chinese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello/European.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello/European.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

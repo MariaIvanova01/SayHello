@@ -1,15 +1,9 @@
 package hello;
 
-public class European implements Person {
-    private String name;
+public class European extends BasePerson{
 
     public European(String name) {
-        this.name = name;
-    }
-
-    @Override
-    public String getName() {
-        return name;
+        super(name);
     }
 
     @Override
